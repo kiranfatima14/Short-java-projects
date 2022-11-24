@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.util.Scanner;
 
 public class Calculator {
@@ -25,6 +26,9 @@ public class Calculator {
 
         int rem = value1 % value2;
         System.out.println("The remainder of two number is " + rem);
+
+
+
 
 
 
